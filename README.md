@@ -29,5 +29,5 @@ The application presents questions dynamically, collects user responses, support
 
 ## 📸 Screenshot
 
-![Mobile View](screenshots/mobile.png)
+![Mobile View](https://github.com/aishhanda/SCT_WD_3/blob/main/screencapture-127-0-0-1-5500-Task-3-index-html-2026-02-21-18_15_30.png)
 
