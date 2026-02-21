@@ -29,5 +29,5 @@ The application presents questions dynamically, collects user responses, support
 
 ## 📸 Screenshot
 
-
+![Mobile View](screenshots/mobile.png)
 
